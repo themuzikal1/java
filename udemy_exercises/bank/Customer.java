@@ -1,5 +1,6 @@
 package bank;
 
+<<<<<<< HEAD
 
 public class Customer {
     private double accountNumber = 0;
@@ -69,6 +70,12 @@ public class Customer {
 }
 
 
+=======
+public class Customer {
+
+}
+
+>>>>>>> 4442a3eb30263285baac120a31fb5e8061730a94
 /*
 - **Customer Class**:
 - Customer Name

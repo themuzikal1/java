@@ -1,5 +1,6 @@
 package udemy_exercises.bank;
 
+<<<<<<< HEAD
 import java.util.HashMap;
 
 public class Bank {
@@ -27,6 +28,11 @@ public class Bank {
 
         }
     }
+=======
+public class Bank {
+    
+}
+>>>>>>> 4442a3eb30263285baac120a31fb5e8061730a94
 
 
 /*

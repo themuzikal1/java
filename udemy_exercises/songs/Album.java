@@ -1,5 +1,6 @@
 package udemy_exercises.songs;
 
+<<<<<<< HEAD
 import java.util.ArrayList;
 import java.util.LinkedList;
 
@@ -51,6 +52,9 @@ public class Album {
 
 
 
+=======
+class Album {
+>>>>>>> 4442a3eb30263285baac120a31fb5e8061730a94
 
 }
 

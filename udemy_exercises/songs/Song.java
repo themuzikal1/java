@@ -1,6 +1,7 @@
 package udemy_exercises.songs;
 
 class Song {
+<<<<<<< HEAD
     private String title;
     private double duration;
 
@@ -17,6 +18,9 @@ class Song {
     public String toString() {
         return this.title + ": " + this.duration;
     }
+=======
+
+>>>>>>> 4442a3eb30263285baac120a31fb5e8061730a94
 }
 
 /*

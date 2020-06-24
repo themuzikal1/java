@@ -1,5 +1,6 @@
 package udemy_exercises.cell_phone;
 
+<<<<<<< HEAD
 import java.util.ArrayList;
 
 class CellPhone {
@@ -95,6 +96,12 @@ class CellPhone {
 
 
 
+=======
+class CellPhone {
+
+}
+
+>>>>>>> 4442a3eb30263285baac120a31fb5e8061730a94
 /*
 **Cell Phone with Java Classes**
     - **CellPhone Class:**
