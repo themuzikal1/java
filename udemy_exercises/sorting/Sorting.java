@@ -1,4 +1,4 @@
-package udemy_exercises;
+package sorting;
 
 class Sorting {
 
